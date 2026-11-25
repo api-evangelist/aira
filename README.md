@@ -66,7 +66,7 @@
 
 Aira provides video remote interpreting services that connect blind, low‑vision, Deaf, and hard‑of‑hearing individuals with trained agents via a smartphone app or smart glasses. By streaming live video to a remote agent, Aira enables users to navigate environments, read text, and access information in real time, promoting independence and accessibility. The company is recognized on the Forbes Accessibility 200 List and partners with organizations to offer its services to employees and students.
 
-**Areas:** Company · Accessibility · VideoRemoteInterpreting · AssistiveTechnology · Software-as-a-Service
+**Areas:** Company · Accessibility · Video Remote Interpreting · Assistive Technology · Software-as-a-Service
 
 ## Aira on APIs.io
 
@@ -90,7 +90,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 3.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 2.2** — minimal · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -124,8 +124,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aira/](https://apis.io/providers/aira/).
 
